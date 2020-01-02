@@ -1,7 +1,7 @@
 {
-  "name": "final_project",
+  "name": "my_website",
   "version": "1.0.0",
-  "description": "A way for people to book areas to hold recreational activities",
+  "description": "Nicholas Lisi resume",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
